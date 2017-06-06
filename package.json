@@ -1,0 +1,17 @@
+{
+    "name": "nodejspln",
+    "version": "1.0.0",
+    "description": "Simple studies on learning natural language processing using Javascript",
+    "main": "index.js",
+    "keywords": [
+        "node",
+        "javascript",
+        "pln",
+        "language"
+    ],
+    "author": "Igor Bettio",
+    "license": "MIT",
+    "dependencies": {
+        "natural": "^0.5.1"
+    }
+}
