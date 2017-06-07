@@ -7,5 +7,4 @@ natural.LogisticRegressionClassifier.load('logisticregressionclassifier.json', n
         var testComment = "";
         console.log(classifier.classify(testComment));
     }
-
 })
